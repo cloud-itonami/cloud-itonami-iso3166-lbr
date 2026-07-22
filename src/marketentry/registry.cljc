@@ -20,7 +20,7 @@
   Restrictions to Foreign Ownership of Enterprises', own text, fetched
   directly, see `marketentry.facts`) -- a TWO-PART gate:
 
-    1. Fifteen business activities the Schedule's own text reserves
+    1. Sixteen business activities the Schedule's own text reserves
        'exclusively for Liberians' -- a CATEGORICAL bar no capital
        amount cures, EXCEPT the Schedule's own auto-repair-shop item,
        which is itself conditional: 'Auto repair shops with investments
@@ -105,8 +105,8 @@
 
 (def reserved-for-liberians
   "Investment Act of 2010, Schedule (own text, fetched directly
-  2026-07-23): fourteen business activities reserved exclusively for
-  Liberians with NO capital-amount exception. The Schedule's fifteenth
+  2026-07-23): fifteen business activities reserved exclusively for
+  Liberians with NO capital-amount exception. The Schedule's sixteenth
   reserved item, auto repair shops, is handled separately by
   `auto-repair-shop-reserved?` because the Schedule's own text makes
   IT conditional on a stated capital amount ('...with investments of

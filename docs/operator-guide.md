@@ -9,7 +9,7 @@ company registration + Liberia Revenue Authority (LRA) Taxpayer
 Identification Number (TIN) record. Engagements declaring
 `:foreign-company? true` also clear the Investment Act of 2010's own
 Schedule ('Limited Restrictions to Foreign Ownership of Enterprises')
-before a filing can proceed -- a categorical bar for fifteen
+before a filing can proceed -- a categorical bar for sixteen
 reserved-for-Liberians activities, or a capital threshold conditional
 on ownership structure for a separate list of twelve activities.
 Human-gated filing only.

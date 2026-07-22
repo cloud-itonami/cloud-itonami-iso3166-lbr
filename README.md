@@ -32,7 +32,7 @@ as every `cloud-itonami-iso3166-*` sibling in this fleet:
   flagship check independently recomputes whether an engagement
   declaring `:foreign-company? true` is eligible under the Investment
   Act of 2010's own Schedule -- a two-part gate combining a categorical
-  reserved-sector exclusion list (fifteen activities reserved
+  reserved-sector exclusion list (sixteen activities reserved
   exclusively for Liberians, with the Schedule's own internal
   US$50,000 carve-out for auto repair shops) with a SEPARATE list of
   twelve activities where foreign capital is admitted only above a

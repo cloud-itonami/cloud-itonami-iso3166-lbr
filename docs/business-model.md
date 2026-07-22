@@ -19,5 +19,5 @@ Independent public-sector market-entry compliance for Liberia.
   business activity unless its own declared capital clears the
   threshold for its own declared ownership structure (US$500,000
   wholly foreign-owned / US$300,000 in a >=25%-Liberian partnership),
-  or bars it categorically if the activity is one of the fifteen
+  or bars it categorically if the activity is one of the sixteen
   reserved-for-Liberians activities
