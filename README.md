@@ -44,7 +44,7 @@ as every `cloud-itonami-iso3166-*` sibling in this fleet:
   this iteration could NOT verify, such as the exact citation for the
   Act Creating the LRA and a Liberia-specific representative/director
   exclusion-extension provision).
-- `src/statute/facts.cljc` -- general-law catalog: the Decent Work Act,
+- `src/statute/facts.cljk` -- general-law catalog: the Decent Work Act,
   2015 (labor, Civil Service Agency-hosted, independently corroborated
   by the Ministry of Labour's own site), the Liberia Consolidated
   Revenue Code As Amended - 2020 (tax, Liberia Revenue Authority),
@@ -80,7 +80,7 @@ Alongside the market-entry / statute catalogs, this repo carries a
 `com-junkawasaki/root`) — national dishes, protected products, beverages,
 crafts, festivals and heritage sites for Liberia:
 
-- `src/culture/facts.cljc` — the catalog, source of truth (keyed by
+- `src/culture/facts.cljk` — the catalog, source of truth (keyed by
   uppercase ISO3, mirroring `statute.facts`).
 - `schema/culture.edn` — DataScript schema.
 - `data/culture-tx.edn` — derived DataScript tx-data (regenerated from
